@@ -1,0 +1,28 @@
+{
+    "div_example1": {
+        "div_photo": "img_maPhoto",
+        "div_desc": "p_desc",
+        "div_sousExample1": {
+            "img_oui": "./datas/img/oui.jpg"
+        },
+        "div_cv": "a_href_cv"
+    },
+    "div_example2": {
+        "div_sousExample1": {
+            "img_maPhoto": "./datas/img/maPhoto.jpeg",
+            "p_maPhoto.desc": "C'est une photo"
+        },
+        "div_sousExample2": {
+            "ul_listJeu": {
+                "li_wow": {
+                    "img_wow": "./datas/img/wow.jpeg",
+                    "p_wow.desc.des": "World of Warcraft"
+                },
+                "li_minecraft": {
+                    "img_minecraft": "./datas/img/minecraft.jpeg",
+                    "p_minecraft.desc": "Minecraft"
+                }
+            }
+        }
+    }
+}
