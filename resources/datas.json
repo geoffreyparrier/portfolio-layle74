@@ -1,0 +1,9 @@
+{
+    "div_home": {
+        "h1_siteEnConstruction":"Site en construction, revenez plus tard"
+    },
+    "div_skills": {},
+    "div_contact": {
+        "a_cvInternational":"resources/files/florent_cv_international.pdf*My Resume"
+    }
+}
